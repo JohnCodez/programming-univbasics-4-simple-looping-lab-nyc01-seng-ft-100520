@@ -18,4 +18,6 @@ end
 
 def output_array(array)
   for i in array do 
-    
+    puts i 
+    i += 1 
+  end
