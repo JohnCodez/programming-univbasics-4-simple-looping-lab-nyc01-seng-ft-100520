@@ -21,3 +21,10 @@ def output_array(array)
     puts i 
   end
 end
+
+def return_string_array(array)
+  arr = []
+  for i in array
+    arr << i.to_s
+end
+end
