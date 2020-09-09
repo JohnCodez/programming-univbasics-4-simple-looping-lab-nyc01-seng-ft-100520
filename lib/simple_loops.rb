@@ -20,3 +20,4 @@ def output_array(array)
   for i in array 
     puts i 
   end
+end
