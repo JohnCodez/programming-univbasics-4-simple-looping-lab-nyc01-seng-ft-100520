@@ -26,5 +26,6 @@ def return_string_array(array)
   arr = []
   for i in array
     arr << i.to_s
-end
+  end
+  arr
 end
