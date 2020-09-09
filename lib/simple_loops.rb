@@ -4,5 +4,6 @@ def loop_message_five_times(message)
   c = 0
   while c < 5 do
     puts message
+    c += 1
   end 
 end
